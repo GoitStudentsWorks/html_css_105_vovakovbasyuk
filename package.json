@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Ambition-Coders/",
+    "build": "vite build --base=/html_css_105_vovakovbasyuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
